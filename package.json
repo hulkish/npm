@@ -75,6 +75,7 @@
     "libcipm": "^1.6.0",
     "libnpmhook": "^2.0.1",
     "libnpx": "^10.0.1",
+    "libprecious": "^1.9.0",
     "lockfile": "~1.0.3",
     "lodash._baseuniq": "~4.6.0",
     "lodash.clonedeep": "~4.5.0",
@@ -249,8 +250,9 @@
     "write-file-atomic",
     "safe-buffer",
     "worker-farm",
+    "cli-columns",
     "tiny-relative-date",
-    "cli-columns"
+    "libprecious"
   ],
   "devDependencies": {
     "deep-equal": "~1.0.1",
